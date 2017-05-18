@@ -6,8 +6,7 @@ For initialization-heavy code, Prepack works best in an environment where JavaSc
 See the official [prepack.io](http://prepack.io) website for an introduction and an [interactive REPL playground](http://prepack.io/repl.html).
 
 
-## Kitty was here!!!!
-## How to use Prepack
+## How to use Prepack ___Kitty was here!!!!
 
 Install the CLI via npm,
 
